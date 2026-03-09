@@ -1,7 +1,10 @@
 # Revenue Forecast Scenario Analysis
 
-<p align="center">
-  <img src="course-images/course_certificate1.png" width="600">
+
+<p id="Certificate" align="center">
+
+<img src="business-forecasting-analytics/course-images/course_certificate1.png"  width="600"  height="600">
+    
 </p>
 
 Notes and concepts from the Coursera course **Forecast Revenue: Scenario Analysis**.  
